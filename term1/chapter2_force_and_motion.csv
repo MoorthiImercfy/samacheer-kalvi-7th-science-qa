@@ -1,0 +1,25 @@
+Question Type,Question Number,Question,Answer,Additional Notes
+MCQ,1,"A particle is moving in a circular path of radius r. The displacement after half a circle would be","2r","Options: (a) Zero (b) R (c) 2r (d) r/2"
+MCQ,2,"From the given v-t graph it can be inferred that the object is","moving with uniform acceleration","Options: (a) in uniform motion (b) at rest (c) in non uniform motion (d) moving with uniform acceleration"
+MCQ,4,"Suppose a boy is enjoying a ride on a merry go round which is moving with a constant speed of 10 m/s. It implies that the boy is","in accelerated motion","Options: (a) at rest (b) moving with no acceleration (c) in accelerated motion (d) moving with uniform velocity"
+MCQ,5,"What is one way you might increase the stability of an object?","lower the centre of gravity","Options: (a) lower the centre of gravity (b) raise the centre of gravity (c) increase the height of the object (d) shorten the base of the object"
+Fill in the Blanks,1,The shortest distance between the two places is _____,displacement,
+Fill in the Blanks,2,The rate of change of velocity is _____,acceleration,
+Fill in the Blanks,3,If the velocity of an object increases with respect to time then the object is said to be in _____ acceleration,positive,
+Fill in the Blanks,4,The slope of the speed-time graph gives _____,velocity,
+Fill in the Blanks,5,In _____ equilibrium its centre of gravity remains at the same height when it is displacement,neutral,
+Matching,1,"Displacement","metre","Options: (a) Knot (b) Geometric centre (c) Metre (d) Larger base area (e) Uniform velocity"
+Matching,2,"Light travels through vacuum","uniform velocity","Options: (a) Knot (b) Geometric centre (c) Metre (d) Larger base area (e) Uniform velocity"
+Matching,3,"Speed of ship","knot","Options: (a) Knot (b) Geometric centre (c) Metre (d) Larger base area (e) Uniform velocity"
+Matching,4,"Centre of gravity of the geometrical shaped object","larger base area","Options: (a) Knot (b) Geometric centre (c) Metre (d) Larger base area (e) Uniform velocity"
+Matching,5,"Stability","geometric centre","Options: (a) Knot (b) Geometric centre (c) Metre (d) Larger base area (e) Uniform velocity"
+Analogy,1,"velocity : metre/ second :: acceleration : _____","metre/second2",
+Analogy,2,"length of scale : metre :: speed of aeroplane : _____","knot",
+Analogy,3,"displacement / time : velocity :: speed / time : _____","acceleration",
+Short Answer,1,"All objects having uniform speed need not have uniform velocity. Describe with the help of examples.","An object moving in uniform circular motion is moving around the perimeter of the circle with a constant speed. While the speed of object is constant its velocity is changing Ex: Merry-go-round roller coaster planets orbiting the sun.",
+Short Answer,2,"She moves at a constant speed in a constant direction. Rephrase the same sentence in fewer words using concepts related to motion.","She moves in a straight line with constant velocity.",
+Short Answer,3,"What do you mean by constant acceleration?","A body is said to have constant acceleration if it travels is a straight line and its velocity increases or decreases by equal magnitude in equal intervals of time. Ex: the motion of a freely falling body.",
+Short Answer,4,"What is centre of gravity?","The centre of gravity of an object is the point through which the entire weight of the object appears to act.",
+Long Answer,1,"Write the differences between distance and displacement","1. Distance: The total length of a path taken by an object to reach one place from the other. Displacement: The shortest distance from the initial to the final position of an object. 2. Distance between points may vary by path. Displacement is always same. 3. Distance is scalar. Displacement is vector. 4. Distance is always positive/zero. Displacement can be positive negative or zero.",
+Numerical Problem,1,"Geetha takes 15 minutes from her house to reach her school on a bicycle. If the bicycle has a speed of 2 m/s calculate the distance between her house and the school.","Distance = Speed × time = 2 × 900 = 1800 m","Given: time = 15 min = 900 sec Speed = 2 m/s"
+Numerical Problem,2,"A car started from rest and travelling with velocity of 20 m/s in 10 s. What is its acceleration?","Acceleration = (20 - 0)/10 = 2 m/s²","Given: Initial velocity = 0 m/s Final velocity = 20 m/s Time = 10s"
