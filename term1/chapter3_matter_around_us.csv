@@ -1,0 +1,31 @@
+Question Type,Question Number,Question,Answer,Additional Notes
+MCQ,1,"The graphite refill used in pencil is made of element called","carbon","Options: (a) graphite (b) carbon (c) silicon (d) sodium"
+MCQ,2,"The smallest unit of an element is","atom","Options: (a) atom (b) molecule (c) compound (d) none"
+MCQ,3,"The most abundant type of atom in the universe is","Hydrogen","Options: (a) Helium (b) Hydrogen (c) Argon (d) Argon"
+MCQ,4,"Which of the following is an example of a metal?","Iron","Options: (a) Iron (b) Oxygen (c) Helium (d) Water"
+MCQ,5,"The metal which is a liquid at room temperature is","Mercury","Options: (a) Chlorine (b) Sulphur (c) Mercury (d) Silver"
+Fill in the Blanks,1,"The name copper was taken from","cypress",
+Fill in the Blanks,2,"The first letter of a symbol of an element is always written as a ___ letter and the second letter as a ___ letter","capital,small",
+Fill in the Blanks,3,"There are ___ hydrogen atoms in water molecule","2",
+Fill in the Blanks,4,"There is ___ oxygen atom in water molecule","1",
+Fill in the Blanks,5,"___ is the total number of atoms present in one molecule of an element compound or a substance","atomicity",
+True/False,1,"Metals are usually solids or gases at room temperature","False","Metals are usually solids at room temperature"
+True/False,2,"Non-metals are non-malleable","True",
+True/False,3,"Non-metals are usually good conductors of heat and electricity","False","Metals are usually good conductors of heat and electricity"
+True/False,4,"Two different elements may have similar atoms","True",
+True/False,5,"Compounds and elements are pure substances","True",
+Short Answer,1,"What do you understand by chemical formula of a compound? What is its significance?","1. A chemical formula is a symbolic representation of one molecule of an element or a compound. 2. It provides information about the elements present in the molecule and the number of atoms of each element. The chemical formula tells us the types of atoms and the number of each type of atom in one molecule of substance.",
+Short Answer,2,"Define element with an example","It is a substance that cannot be broken down into simpler substance by chemical means. Examples: Oxygen Hydrogen Gold & Helium.",
+Short Answer,3,"Define compound with an example","A compound is a pure substance that is formed when the atoms of two or more elements combine chemically in definite proportions. Examples: H2O NaCl.",
+Short Answer,4,"Define metal with an example","A chemical element that is an effective conductor of electricity and heat can be defined as a metal. Examples: Copper Iron Silver etc.",
+Short Answer,5,"Define non-metal with an example","Non-metal is an element that does not have the characteristics of metal including ability to conduct heat or electricity luster or flexibility. Examples: Carbon Iodine Sulphur.",
+Chemical Formula,1,"Write the chemical formula and elements present in sodium chloride","NaCl","Sodium (Na) Chlorine (Cl)"
+Chemical Formula,2,"Write the chemical formula and elements present in potassium hydroxide","KOH","Potassium (K) Oxygen (O) Hydrogen (H)"
+Chemical Formula,3,"Write the chemical formula and elements present in carbon-di-oxide","CO2","Carbon (C) Oxygen (O2)"
+Chemical Formula,4,"Write the chemical formula and elements present in calcium oxide","CaO","Calcium (Ca) Oxygen (O)"
+Chemical Formula,5,"Write the chemical formula and elements present in sulphur dioxide","SO2","Sulphur (S) Oxygen (O2)"
+Classification,1,"Classify mercury as solid liquid or gas at room temperature","Liquid","Symbol: Hg"
+Classification,2,"Classify chlorine as solid liquid or gas at room temperature","Gas","Symbol: Cl"
+Classification,3,"Classify aluminum as solid liquid or gas at room temperature","Solid","Symbol: Al"
+Classification,4,"Classify helium as solid liquid or gas at room temperature","Gas","Symbol: He"
+Classification,5,"Classify carbon as solid liquid or gas at room temperature","Solid","Symbol: C"
