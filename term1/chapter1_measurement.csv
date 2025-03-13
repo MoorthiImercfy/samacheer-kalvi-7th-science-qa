@@ -1,0 +1,27 @@
+Question Type,Question Number,Question,Answer,Additional Notes
+Short Answer,1,What is fundamental quantity? Give examples.,"A set of physical quantities which cannot be expressed in terms of any other quantities are known as fundamental quantities. Ex: Length, mass, time.",
+Short Answer,2,Define mass Mention its unit.,"Mass is the amount of matter contained in a body. It's unit is kilogram (kg).",
+Short Answer,3,What are the multiples and sub multiples of mass?,"The multiples of mass are quintal and metric tonne. The sub-multiples of mass are gram and milligrams.",
+Short Answer,4,What is physical quantity? give example.,"A quantity that can be measured is called a physical quantity. For example, the length of a piece of cloth, the time at which school begins.",
+Short Answer,5,What do you mean by 'unit'?,"The known measure of a physical quantity is called the unit of measurement.",
+Short Answer,6,What is measurement?,"Comparison of an unknown quantity with a standard quantity is called measurement.",
+Short Answer,7,What is meant by area?,"Area is the measure of the region inside a closed line.",
+Short Answer,8,What is capacity of a container?,"The volume of liquid which a container can hold is called its capacity.",
+Short Answer,9,What is the relation between density volume and mass?,"Density = Mass/Volume",
+Short Answer,10,Define astronomical unit.,"One astronomical unit is defined as the average distance between the earth and the sun. 1AU = 1.496 x 10^11 m or 149.6 x 10^6 m",
+MCQ,1,The unit of volume is _____,"m3","Options: (a) m3 (b) m3 (c) cm3 (d) km"
+MCQ,2,Physical quantities are classified into _____ type,"two","Options: (a) three (b) two (c) four (d) none of the above"
+MCQ,3,The SI unit of speed is _____,"m/s2","Options: (a) m/s2 (b) m/s (c) km/h (d) m2/s"
+MCQ,4,1 litre = _____ cc,"1000","Options: (a) 100 (b) 1000 (c) 10 (d) 0.1"
+MCQ,5,The formula to calculate area of a rectangle is _____,"length × breadth","Options: (a) length × breadth (b) side × side (c) π × radius × radius (d) none of the above"
+Fill in the Blanks,1,The materials with higher density are called _____,denser,
+Fill in the Blanks,2,The materials with lower density are called _____,rarer,
+Fill in the Blanks,3,The area of irregularly shaped figures can be calculated with the help of a _____,graph sheet,
+Fill in the Blanks,4,The SI unit of volume is _____,cubic metre or m3,
+Fill in the Blanks,5,The SI unit of density is _____,kg/m3,
+True/False,1,One square metre is the area enclosed inside a square of side 2 metre.,"False","Correct Statement: One square metre is the area enclosed inside a square of side 1 metre."
+True/False,2,Area is a derived quantity as we obtain by multiplying twice of the fundamental physical quantity length.,"True",
+True/False,3,Density of water is 100 kg/m3,"False","Correct statement: Density of water is 1000 kg/m3"
+True/False,4,Density is defined as the mass of the substance contained in unit volume.,"True",
+Numerical Problem,1,"A piece of iron weighs 230 g and has a volume of 20 cm3. Find the density of iron.","Density = Mass/Volume = 230g/20cm3 = 11.5 g/cm3","Given: Mass = 230g, Volume = 20cm3"
+Numerical Problem,2,"Find the mass of silver of volume 50 cm3 and density 10.5 g/cm3","Mass = Density × Volume = 10.5 × 50 = 525 g","Given: Volume = 50cm3, Density = 10.5 g/cm3"
