@@ -1,0 +1,26 @@
+Question Type,Question Number,Question,Answer,Additional Notes
+MCQ,1,"The international unit of measuring temperature is","Kelvin","Options: (a) Kelvin (b) Fahrenheit (c) Celsius (d) Joule"
+MCQ,2,"Light travels in","Straight lines","Options: (a) Curved lines (b) Straight lines (c) Zigzag path (d) Random path"
+MCQ,3,"The bouncing back of light from a surface is called","Reflection","Options: (a) Refraction (b) Reflection (c) Dispersion (d) Absorption"
+MCQ,4,"Which of the following is a luminous object?","Sun","Options: (a) Moon (b) Sun (c) Planets (d) Stars"
+MCQ,5,"The angle of incidence is always equal to","Angle of reflection","Options: (a) Angle of refraction (b) Angle of reflection (c) Normal angle (d) None of these"
+Fill in the Blanks,1,"Light travels at a speed of ___ kilometers per second in vacuum","300,000",
+Fill in the Blanks,2,"The splitting of white light into its component colors is called ___","Dispersion",
+Fill in the Blanks,3,"A ___ is used to split white light into seven colors","Prism",
+Fill in the Blanks,4,"The image formed by a plane mirror is always ___","Virtual and erect",
+Fill in the Blanks,5,"The phenomenon of change in the direction of light when it passes from one medium to another is called ___","Refraction",
+True/False,1,"The Moon is a luminous object","False","The Moon reflects sunlight and is therefore a non-luminous object"
+True/False,2,"A plane mirror forms a real image","False","A plane mirror forms a virtual image"
+True/False,3,"Light can travel through a vacuum","True",
+True/False,4,"The image formed by a plane mirror is laterally inverted","True",
+True/False,5,"Red light has the longest wavelength in the visible spectrum","True",
+Short Answer,1,"What is reflection of light?","The bouncing back of light from a reflecting surface is called reflection of light. When light falls on a smooth surface, it changes its direction.",
+Short Answer,2,"State the laws of reflection.","1. The angle of incidence is equal to the angle of reflection. 2. The incident ray, reflected ray, and normal at the point of incidence all lie in the same plane.",
+Short Answer,3,"What is lateral inversion?","The phenomenon where the left side of an object appears as the right side and vice versa in a mirror image is called lateral inversion.",
+Short Answer,4,"What are luminous and non-luminous objects?","Luminous objects produce their own light (e.g., Sun, stars). Non-luminous objects reflect light from other sources (e.g., Moon, planets).",
+Long Answer,1,"Explain the formation of shadows with necessary conditions.","1. Shadows form because light travels in straight lines. 2. An opaque object is needed to block light. 3. A source of light and a screen are required. 4. The shadow is always formed on the opposite side of the light source. 5. The size of the shadow depends on the distance between the object and light source.",
+Long Answer,2,"Describe the spectrum of white light.","1. White light is composed of seven colors: violet, indigo, blue, green, yellow, orange, and red (VIBGYOR). 2. These colors can be separated using a prism through dispersion. 3. Each color has a different wavelength. 4. Red has the longest wavelength while violet has the shortest.",
+Numerical,1,"If a ray of light strikes a plane mirror at an angle of 30° with the mirror surface, what is the angle of reflection?","60°","First find angle of incidence (90° - 30° = 60°). By laws of reflection, angle of reflection = 60°"
+Numerical,2,"A light ray hits a plane mirror at 45° to the normal. Calculate the angle between incident and reflected rays.","90°","Angle between rays = 2 × angle of incidence = 2 × 45° = 90°"
+Activity,1,"Make a pinhole camera using a box","1. Take a cardboard box and make it light-proof. 2. Make a small hole on one side. 3. Place tracing paper on opposite side. 4. Point the hole towards a bright object. 5. Observe the inverted image on the paper.","Demonstrates rectilinear propagation of light"
+Activity,2,"Demonstrate reflection using plane mirrors","1. Take two plane mirrors. 2. Arrange them at different angles. 3. Place an object in front. 4. Observe number of images formed at different angles.","Shows multiple reflections and image formation"
