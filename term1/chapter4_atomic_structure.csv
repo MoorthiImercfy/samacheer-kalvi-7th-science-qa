@@ -1,28 +1,27 @@
 Question Type,Question Number,Question,Answer,Additional Notes
-MCQ,1,"The basic unit of matter is","atom","Options: (a) Element (b) Atom (c) Molecule (d) Electron"
-MCQ,2,"The subatomic particle that revolves around the nucleus is","electron","Options: (a) Atom (b) Neutron (c) Electron (d) Proton"
-MCQ,3,"Which particle is positively charged?","proton","Options: (a) Proton (b) Electron (c) Molecule (d) Neutron"
-MCQ,4,"The atomic number of an atom is","Number of protons","Options: (a) Number of neutrons (b) Number of protons (c) Total number of protons and neutrons (d) Number of atoms"
-MCQ,5,"Nucleons comprise of","Protons and neutrons","Options: (a) Protons and electrons (b) Neutrons and electrons (c) Protons and neutrons (d) Neutrons and Positron"
-Fill in the Blanks,1,"The smaller particles found in the atom are called","sub-atomic particles",
-Fill in the Blanks,2,"The nucleus has ___ and ___","Protons Neutrons",
-Fill in the Blanks,3,"The ___ revolve around the nucleus","electrons",
-Fill in the Blanks,4,"If the valency of carbon is 4 and that of hydrogen is 1 then the molecular formula of methane is","CH4",
-Fill in the Blanks,5,"There are two electrons in the outermost orbit of the magnesium atom Hence the valency of magnesium is","2",
-Short Answer,1,"What is atomic number?","Atomic number is the number of protons an atom contains.",
-Short Answer,2,"What is mass number of an atom?","It is the sum of protons and neutrons in the nucleus of an atom.",
-Short Answer,3,"What is a neutron?","Neutron is an elementary particle that carries no charge.",
-Short Answer,4,"Name the 3 sub-atomic particles of an atom.","Electron Proton Neutron.",
-Short Answer,5,"What are valence electrons?","The number of electrons present in the outermost shell of an atom are known as valence electrons.",
-Long Answer,1,"What was the model of an atom proposed by Thomson?","1. J.J. Thomson's theory proposed that the atom has positively charged part like the red part of the watermelon and in it are embedded like the seeds negatively charged particles which he called electrons. 2. According to this theory as the positive and negative charges are equal the atom as a whole does not have any resultant charge. 3. Thomson's greatest contribution was to prove by experimentation the existence of the negatively charged particles or electrons in an atom.",
-Long Answer,2,"Explain proton electron and neutron.","1. Proton (p): The proton is the positively charged particle and is located in the nucleus. Its positive charge is of the same magnitude as that of the electron's negative charge. 2. Neutron (n): Neutron is inside the nucleus. The neutron does not have any charge. Except hydrogen (protium) the nuclei of all atoms contain neutrons. 3. Electron (e): This is a negatively charged particle. Electrons revolve around the nucleus of the atom in specific orbits. The mass of an electron is negligible as compared to that of a proton or neutron.",
-True/False,1,"The basic unit of an element is molecule.","False","Correct statement: The basic unit of an element is atom."
-True/False,2,"The electrons are positively charged.","False","Correct statement: The electrons are negatively charged."
-True/False,3,"An atom is electrically neutral.","True",
-True/False,4,"The nucleus is surrounded by protons.","False","Correct statement: The nucleus is surrounded by electrons."
-Numerical,1,"The atomic number of an element is 9 it has 10 neutrons. Find its mass number.","Mass number = Number of protons + Number of neutrons = 9 + 10 = 19","The element is Fluorine"
-Matching,1,"Valency","Electrons in the outermost Orbit","Options: (a) Fe (b) Proton (c) Electrons in outermost Orbit (d) Neutron (e) Monovalent"
-Matching,2,"Neutral Particle","Neutron","Options: (a) Fe (b) Proton (c) Electrons in outermost Orbit (d) Neutron (e) Monovalent"
-Matching,3,"Iron","Fe","Options: (a) Fe (b) Proton (c) Electrons in outermost Orbit (d) Neutron (e) Monovalent"
-Matching,4,"Hydrogen","Monovalent","Options: (a) Fe (b) Proton (c) Electrons in outermost Orbit (d) Neutron (e) Monovalent"
-Matching,5,"Positively charged Particle","Proton","Options: (a) Fe (b) Proton (c) Electrons in outermost Orbit (d) Neutron (e) Monovalent"
+MCQ,1,"The basic unit of matter is","Atom","Options: (a) Element (b) Atom (c) Molecule (d) Electron"
+MCQ,2,"The subatomic particle that revolves around the nucleus is","Electron","Options: (a) Proton (b) Neutron (c) Electron (d) Nucleus"
+MCQ,3,"Which particle carries a positive charge?","Proton","Options: (a) Electron (b) Proton (c) Neutron (d) Nucleus"
+MCQ,4,"The atomic number of an element represents the number of","Protons","Options: (a) Neutrons (b) Protons (c) Electrons (d) Nucleons"
+MCQ,5,"Nucleons consist of","Protons and neutrons","Options: (a) Protons and electrons (b) Neutrons and electrons (c) Protons and neutrons (d) Only protons"
+MCQ,6,"The symbol Fe represents","Iron","Options: (a) Gold (b) Silver (c) Iron (d) Copper"
+MCQ,7,"Hydrogen is a","Monovalent element","Options: (a) Divalent element (b) Monovalent element (c) Trivalent element (d) Zero valent element"
+Fill in the Blanks,1,"The smaller particles found in an atom are called _____","sub-atomic particles",
+Fill in the Blanks,2,"The nucleus contains _____ and _____","protons, neutrons",
+Fill in the Blanks,3,"_____ revolve around the nucleus","Electrons",
+Fill in the Blanks,4,"The valency of carbon is _____","4",
+Fill in the Blanks,5,"The number of electrons in the outermost shell determines the _____ of an element","valency",
+True/False,1,"The basic unit of an element is a molecule","False","The basic unit of an element is an atom"
+True/False,2,"Electrons carry a positive charge","False","Electrons carry a negative charge"
+True/False,3,"An atom is electrically neutral","True",
+True/False,4,"The nucleus is surrounded by protons","False","The nucleus is surrounded by electrons"
+True/False,5,"Neutrons have no electrical charge","True",
+Short Answer,1,"What is atomic number?","The atomic number of an element is equal to the number of protons present in its nucleus.",
+Short Answer,2,"What is mass number?","Mass number is the total number of protons and neutrons present in the nucleus of an atom.",
+Short Answer,3,"Define valency","Valency is the combining capacity of an atom of an element. It is equal to the number of electrons in the outermost shell or the number of electrons lost, gained, or shared to achieve a stable electronic configuration.",
+Short Answer,4,"Name the three sub-atomic particles","The three sub-atomic particles are: 1. Protons (positive charge) 2. Neutrons (neutral) 3. Electrons (negative charge).",
+Short Answer,5,"What are valence electrons?","Valence electrons are the electrons present in the outermost shell of an atom. They determine the chemical properties of the element.",
+Long Answer,1,"Explain Thomson's atomic model","1. J.J. Thomson proposed that an atom is a sphere of positive charge. 2. The electrons are embedded in it like plums in a pudding. 3. The positive and negative charges are equal, making atom neutral. 4. This model explained that atoms are electrically neutral. 5. However, it couldn't explain certain properties of atoms.",
+Long Answer,2,"Describe the three sub-atomic particles in detail","1. Proton: Positively charged particle located in nucleus, mass = 1 amu. 2. Neutron: Neutral particle in nucleus, mass = 1 amu. 3. Electron: Negatively charged particle revolving around nucleus, mass negligible compared to proton/neutron. 4. Protons and neutrons together are called nucleons. 5. Number of protons equals number of electrons in a neutral atom.",
+Numerical,1,"An atom has atomic number 9 and mass number 19. Calculate the number of neutrons.","Number of neutrons = Mass number - Atomic number = 19 - 9 = 10 neutrons","Given: Atomic number = 9, Mass number = 19"
+Numerical,2,"If an atom has 8 protons and 8 neutrons, what is its mass number?","Mass number = Number of protons + Number of neutrons = 8 + 8 = 16","Given: Protons = 8, Neutrons = 8"
