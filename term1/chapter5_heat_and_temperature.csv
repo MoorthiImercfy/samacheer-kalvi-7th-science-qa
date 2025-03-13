@@ -1,27 +1,58 @@
 Question Type,Question Number,Question,Answer,Additional Notes
-MCQ,1,"International unit of measuring temperature is","Kelvin","Options: (a) Kelvin (b) Fahrenheit (c) Celsius (d) Joule"
-MCQ,2,"In thermometer when bulb comes in contact with hot object liquid inside it","expands","Options: (a) expands (b) contracts (c) remains same (d) none of above"
-MCQ,3,"The body temperature of a healthy man is","37°C","Options: (a) 0°C (b) 37°C (c) 98°C (d) 100°C"
-MCQ,4,"Mercury is often used in laboratory thermometers because it","Expands uniformly","Options: (a) is a harmless liquid (b) is silvery in colour (c) Expands uniformly (d) is a low cost liquid"
-MCQ,5,"Heat energy is always transferred from ___ to ___ temperatures","higher lower","Options: (a) lower higher (b) higher lower (c) conductor insulator (d) both a and b"
-Fill in the Blanks,1,"Doctor uses ___ thermometer to measure the human body temperature","clinical",
-Fill in the Blanks,2,"At room temperature mercury is in ___ state","liquid",
-Fill in the Blanks,3,"Heat energy transfers from ___ to ___","hotter object colder object",
-Fill in the Blanks,4,"-7°C temperature is ___ than 0°C temperature","less",
-Fill in the Blanks,5,"The common laboratory thermometer is a ___ thermometer","mercury",
-Short Answer,1,"Why do we use mercury in thermometers? Can water be used instead of mercury?","1. We use mercury in thermometers as they remain in liquid form even with a change of temperature. 2. Water cannot be used because: a) It cannot measure below 0°C and above 100°C b) Water is transparent making reading difficult c) Water wets the glass tube",
-Short Answer,2,"Why do we jerk a clinical thermometer before measuring body temperature?","The jerk allows the mercury level to flow into the bulb so that the mercury level is below the normal temperature.",
-Short Answer,3,"What is the use of kink in clinical thermometer?","A kink prevents the mercury from flowing back into the bulb when the thermometer is taken out of the patient's mouth so that the temperature can be noted conveniently.",
-Short Answer,4,"Why can't a clinical thermometer be used to measure the temperature of hot water?","Clinical thermometer has small temperature range (35°C to 42°C). If used for hot water the glass will crack/burst due to excessive pressure created by expansion of mercury.",
-Long Answer,1,"State the similarities and differences between laboratory thermometer and clinical thermometer","Similarities: 1. Both have long narrow uniform glass tubes 2. Both contain mercury 3. Both have Celsius scale. Differences: Laboratory thermometer: 1. Scaled -10°C to 110°C 2. No kink present 3. Temperature read while in source 4. No jerk needed 5. Used in laboratory. Clinical thermometer: 1. Scaled 35°C to 42°C 2. Has kink 3. Can read after removing 4. Needs jerk 5. Used for body temperature",
-True/False,1,"Temperature is related to how fast the atoms within a substance are moving","True",
-True/False,2,"Digital thermometers use mercury","False","Digital thermometers do not use mercury"
-True/False,3,"The freezing point of alcohol is less than -100°C","True",
-True/False,4,"A clinical thermometer can measure temperature of boiling water","False","Clinical thermometer can only measure between 35°C to 42°C"
-Numerical,1,"Convert 40°C to Fahrenheit","104°F","Formula: F = (9C/5) + 32"
-Numerical,2,"Convert 0 K to Celsius","-273°C","Formula: C = K - 273"
-Numerical,3,"Convert -30°C to Kelvin","243 K","Formula: K = C + 273"
-Numerical,4,"Convert 150°F to Celsius","65.9°C","Formula: C = (F-32) × 5/9"
-Activity,1,"Make a simple thermometer using bottle cork refill and colored water","1. Take bottle with colored water 2. Insert refill through cork 3. Heat bottle observe water rise 4. Cool bottle observe water fall","Demonstrates thermal expansion and contraction"
-Activity,2,"Demonstrate gas expansion using bottle and balloon","1. Attach balloon to bottle with water 2. Heat bottle balloon expands 3. Cool bottle balloon contracts","Shows thermal expansion of gases"
-Activity,3,"Measure body temperature using clinical thermometer","1. Wash thermometer with antiseptic 2. Jerk to lower mercury 3. Place under tongue/armpit 4. Wait one minute 5. Read temperature","Normal body temperature is 37°C"
+MCQ,1,"The SI unit of temperature is","Kelvin","Options: (a) Celsius (b) Fahrenheit (c) Kelvin (d) None of these"
+MCQ,2,"The body temperature of a healthy person is","98.6°F or 37°C","Options: (a) 98.6°F (b) 37°C (c) Both a and b (d) None of these"
+MCQ,3,"Which of the following is used in a laboratory thermometer?","Mercury","Options: (a) Alcohol (b) Mercury (c) Water (d) Oil"
+MCQ,4,"The normal room temperature is","27°C","Options: (a) 27°C (b) 37°C (c) 98°F (d) 100°C"
+MCQ,5,"When water is heated, the water molecules","Move faster","Options: (a) Move faster (b) Move slower (c) Stop moving (d) Remain stationary"
+MCQ,6,"Which of the following expands the most when heated?","Gases","Options: (a) Solids (b) Liquids (c) Gases (d) All expand equally"
+MCQ,7,"A clinical thermometer has a","Kink","Options: (a) Bulb (b) Kink (c) Scale (d) All of these"
+Fill in the Blanks,1,"Temperature is measured in degree _____ scale","Celsius",
+Fill in the Blanks,2,"Heat always flows from a _____ temperature body to a _____ temperature body","higher, lower",
+Fill in the Blanks,3,"The liquid metal used in thermometer is _____","mercury",
+Fill in the Blanks,4,"The range of a clinical thermometer is _____ to _____","35°C, 42°C",
+Fill in the Blanks,5,"The kink in clinical thermometer prevents the mercury from _____ into the bulb","flowing back",
+True/False,1,"Heat and temperature mean the same thing","False","Heat is a form of energy while temperature is a measure of hotness or coldness"
+True/False,2,"Mercury is used in thermometers because it expands uniformly","True",
+True/False,3,"Digital thermometers are more accurate than mercury thermometers","True",
+True/False,4,"The clinical thermometer can measure high temperatures like 100°C","False","Clinical thermometers have a limited range from 35°C to 42°C"
+True/False,5,"All substances expand on heating","True",
+Short Answer,1,"Why is mercury used in thermometers?","Mercury is used in thermometers because: 1. It expands uniformly when heated 2. It does not stick to glass 3. It is easily visible due to its silvery color 4. It responds quickly to temperature changes",
+Short Answer,2,"What is the function of the kink in a clinical thermometer?","The kink in a clinical thermometer prevents the mercury from flowing back into the bulb after taking temperature reading. This allows the reading to be noted even after removing the thermometer from the patient's mouth.",
+Short Answer,3,"Define temperature","Temperature is a measure of the degree of hotness or coldness of a body. It determines the direction of heat flow between two bodies.",
+Short Answer,4,"What is the principle behind the working of a thermometer?","Thermometers work on the principle that liquids expand when heated and contract when cooled. This expansion and contraction is uniform and can be measured on a calibrated scale.",
+Short Answer,5,"Why can't we use a clinical thermometer to measure the temperature of boiling water?","A clinical thermometer cannot measure the temperature of boiling water because: 1. Its range is limited from 35°C to 42°C 2. High temperatures can damage the thermometer 3. It is specifically designed for measuring body temperature",
+Long Answer,1,"Compare laboratory thermometer and clinical thermometer","Laboratory Thermometer vs Clinical Thermometer:
+1. Range: Lab (-10°C to 110°C), Clinical (35°C to 42°C)
+2. Kink: Lab (No kink), Clinical (Has kink)
+3. Scale: Lab (Long scale), Clinical (Short, precise scale)
+4. Usage: Lab (General purpose), Clinical (Body temperature only)
+5. Reading: Lab (Must be vertical), Clinical (Can be tilted)
+6. Accuracy: Lab (±1°C), Clinical (±0.1°C)",
+Long Answer,2,"Explain how heat affects the states of matter","Effects of Heat on States of Matter:
+1. Solids: Particles vibrate faster, expand slightly, may melt
+2. Liquids: Particles move faster, expand more than solids, may evaporate
+3. Gases: Particles move much faster, expand the most
+4. Changes in state occur at specific temperatures
+5. Heat increases kinetic energy of particles
+6. Volume changes are most noticeable in gases",
+Numerical,1,"Convert 25°C to Fahrenheit. [°F = (°C × 9/5) + 32]","Step 1: °F = (25 × 9/5) + 32
+Step 2: °F = 45 + 32
+Step 3: °F = 77°F","Given: Temperature = 25°C"
+Numerical,2,"Convert 98.6°F to Celsius. [°C = (°F - 32) × 5/9]","Step 1: °C = (98.6 - 32) × 5/9
+Step 2: °C = 66.6 × 5/9
+Step 3: °C = 37°C","Given: Temperature = 98.6°F"
+Activity,1,"To demonstrate thermal expansion in solids","Materials needed: Metal ball and ring apparatus
+Steps:
+1. Pass the metal ball through the ring at room temperature
+2. Heat the metal ball using a Bunsen burner
+3. Try to pass the heated ball through the ring
+Observation: The heated ball cannot pass through the ring
+Conclusion: Solids expand on heating",
+Activity,2,"To observe the expansion of water on heating","Materials needed: Flask, water, cork with glass tube
+Steps:
+1. Fill the flask completely with colored water
+2. Insert the cork with glass tube
+3. Mark the initial water level in the tube
+4. Heat the flask gently
+Observation: Water level in the tube rises
+Conclusion: Liquids expand on heating"
